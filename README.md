@@ -1,4 +1,4 @@
-<h1 align = "center">👨‍💻Badam Koushik</h1>
+<h1 align = "center">👨‍💻Badam K S S V Koushik</h1>
 <h3 align="center">Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | NxtWave CCBP 4.0 Learner</h3>
 # 💫 About Me:
 🔭 I'm currently working on: Strengthening my Data Structures and Algorithms skills and building web development projects.<br>👯 I'm looking to collaborate on: Open-source projects, web development projects, and beginner-friendly software development projects.<br>🤝 I'm looking for help with: Full-Stack Development, advanced DSA concepts, and real-world project development.<br>🌱 I'm currently learning: CSS Flexbox and Responsive Web Design through the NxtWave Full Stack Development program.<br>💬 Ask me about: C, C++,JavaScript, SQL, DSA, LeetCode, HackerRank, and Competitive Programming.<br>⚡ Fun fact: I have completed my 3rd year of Engineering, solved 200+problems on LeetCode and 350+ coding problems on CodeChef, and earned multiple HackerRank badges in Java, C, SQL, and Problem Solving.
